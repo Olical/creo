@@ -1,5 +1,7 @@
 # impl [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
+[![Join the chat at https://gitter.im/Olical/impl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Olical/impl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Homoiconic language with minimal syntax compiling to JavaScript.
 
 This is essentially a toy language right now that's supposed to be an exercise in language and basic compiler design. It's inspired by Clojure among other Lisps. The immutable persistent data structures are provided by [ImmutableJS][].
